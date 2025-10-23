@@ -1,0 +1,10 @@
+# Create .gitignore in the SmartTable root directory
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node/Frontend
+node_modules/
