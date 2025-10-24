@@ -1,0 +1,5 @@
+[
+  {"id": 1, "size": 2, "status": "available"},
+  {"id": 2, "size": 4, "status": "occupied"},
+  {"id": 3, "size": 6, "status": "available"}
+]
