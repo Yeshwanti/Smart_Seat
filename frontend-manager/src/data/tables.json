@@ -1,0 +1,58 @@
+[
+  { 
+    "id": 1, 
+    "status": "free", 
+    "capacity": 2,
+    "current_customer": null,
+    "reserved_by": null
+  },
+  { 
+    "id": 2, 
+    "status": "occupied", 
+    "capacity": 4,
+    "current_customer": "Bob",
+    "reserved_by": null
+  },
+  { 
+    "id": 3, 
+    "status": "reserved", 
+    "capacity": 4,
+    "current_customer": null,
+    "reserved_by": "David"
+  },
+  { 
+    "id": 4, 
+    "status": "free", 
+    "capacity": 6,
+    "current_customer": null,
+    "reserved_by": null
+  },
+  { 
+    "id": 5, 
+    "status": "free", 
+    "capacity": 2,
+    "current_customer": null,
+    "reserved_by": null
+  },
+  { 
+    "id": 6, 
+    "status": "occupied", 
+    "capacity": 4,
+    "current_customer": "Eve",
+    "reserved_by": null
+  },
+  { 
+    "id": 7, 
+    "status": "free", 
+    "capacity": 8,
+    "current_customer": null,
+    "reserved_by": null
+  },
+  { 
+    "id": 8, 
+    "status": "reserved", 
+    "capacity": 2,
+    "current_customer": null,
+    "reserved_by": "Frank"
+  }
+]
