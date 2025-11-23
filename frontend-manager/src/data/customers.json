@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Alice", "group_size": 2 },
+  { "id": 2, "name": "Bob", "group_size": 4 },
+  { "id": 3, "name": "Charlie", "group_size": 3 },
+  { "id": 4, "name": "David", "group_size": 5 },
+  { "id": 5, "name": "Eve", "group_size": 4 },
+  { "id": 6, "name": "Frank", "group_size": 2 },
+  { "id": 7, "name": "Grace", "group_size": 4 },
+  { "id": 8, "name": "Henry", "group_size": 2 },
+  { "id": 9, "name": "Ivy", "group_size": 6 }
+]
